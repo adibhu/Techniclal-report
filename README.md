@@ -44,3 +44,9 @@ They also communicate to their respective components differently, with SOA using
 SOA is also sometimes confused with Software-as-a-service. SaaS is a form of cloud computing that delivers a cloud application—and all its underlying IT infrastructure and platforms—to users. Web services in SOA may be delivered by service providers as SaaS applications. Typically, a cloud service provider (like AWS, Azure, or IBM Cloud) manages the cloud environment on which the SaaS application is hosted.
 
 Users interact with the software through a web browser on their computer or mobile devices. They may use APIs like REST or SOAP to connect the software to other functions.
+
+## References
+
+- [Service-oriented architecture - Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+
+- [Service Oriented Architectures with Web Services - YouTube](https://www.youtube.com/watch?v=PZfYM48Gnj8&list=PL_uaeekrhGzK2FapcTxvuuXOwCPSZvFn3)
